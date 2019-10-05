@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment/>
+<entry key="appliacion_Logs">true</entry>
+<entry key="url">http://automationpractice.com</entry>
+<entry key="url1">http://localhost:5005</entry>
+
+
+</properties>
